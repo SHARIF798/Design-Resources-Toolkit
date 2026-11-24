@@ -81,6 +81,7 @@ A comprehensive collection of UI/UX design resources, tools, templates, and best
 | **Sketch** | Interface Design | Paid |
 | **Framer** | Interactive Prototypes | Free/Paid |
 | **InVision** | Design Collaboration | Paid |
+| **[Linger](https://withlinger.com/)** | Organizing design references, source links, and notes on Apple Silicon Macs | Paid |
 
 ### Prototyping Tools
 - Figma Interactive Components
